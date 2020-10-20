@@ -2,5 +2,5 @@
 
 This is part or Coursera guided proyect.
 
-Since the dataset was so big, here is the link:
+Since the dataset was so large that I couldn't upload it, here is the link:
 https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
